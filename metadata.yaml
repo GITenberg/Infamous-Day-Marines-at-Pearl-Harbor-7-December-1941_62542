@@ -1,0 +1,24 @@
+_repo: Infamous-Day-Marines-at-Pearl-Harbor-7-December-1941_62542
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wenger, J. Michael
+    gutenberg_agent_id: '51997'
+    url: http://www.gutenberg.org/2009/agents/51997
+  - agent_name: Cressman, Robert
+    alias: Cressman, Robert J.
+    gutenberg_agent_id: '44980'
+    url: http://www.gutenberg.org/2009/agents/44980
+description: ''
+gutenberg_issued: '2020-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Infamous Day: Marines at Pearl Harbor 7 December 1941'
+url: http://www.gutenberg.org/ebooks/62542
